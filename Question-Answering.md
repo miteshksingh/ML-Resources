@@ -24,6 +24,9 @@ Document Retriever in DrQA
 4. TREC QA - https://trec.nist.gov/data/qamain.html
 
 
-## Videos
+## Good Blogs
+
+1. Google AI Blog
+2. https://queryunderstanding.com/question-answering-94984185c203
 
 
