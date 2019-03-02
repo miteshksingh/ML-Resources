@@ -30,6 +30,6 @@ Document Retriever in DrQA
 
 1. Google AI Blog
 2. https://queryunderstanding.com/question-answering-94984185c203
-3. http://ai.stanford.edu/blog/beyond_local_pattern_matching/
+3. Standford AI Blog - http://ai.stanford.edu/blog/beyond_local_pattern_matching/
 
 
