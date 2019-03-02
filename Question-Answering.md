@@ -25,7 +25,7 @@ Document Retriever in DrQA
 4. Quac - https://quac.ai/
 5. TREC QA - https://trec.nist.gov/data/qamain.html
 
-
+A  BERT  Baseline  for  the  Natural  Questions - https://arxiv.org/pdf/1901.08634.pdf?forcedefault=true
 ## Good Blogs
 
 1. Google AI Blog
