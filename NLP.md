@@ -7,3 +7,8 @@ http://www.parl.ai/
 
 Applications of Word2Vec
 Word2Vec in Recommender Systems - http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/
+
+
+## NLP Research 
+
+1. https://ai.google/research/teams/language/
