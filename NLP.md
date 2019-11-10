@@ -12,3 +12,4 @@ Word2Vec in Recommender Systems - http://mccormickml.com/2018/06/15/applying-wor
 ## NLP Research 
 
 1. https://ai.google/research/teams/language/
+2. http://nlpprogress.com/
